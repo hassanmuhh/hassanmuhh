@@ -4,6 +4,8 @@ Hi 👋 My name is Hassan Mohamed
 Frontend Developer
 ------------------
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 My passion for programming began during high school when I discovered the world one can enter simply by learning a programming language. I was drawn to how websites are created and the coding involved, redirecting my future towards programming and technology. I specialized in computer science and graduated from college in 2021. I then embarked on a journey of intense learning and active engagement in the job market. I've worked on numerous open-source projects and learned languages like HTML, CSS, JavaScript, React, and TypeScript to support my aspirations.
 
 * 🌍  I'm based in Cairo
